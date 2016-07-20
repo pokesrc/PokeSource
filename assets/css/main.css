@@ -25,6 +25,7 @@
 		line-height: 1;
 	}
 
+
 	ol, ul {
 		list-style: none;
 	}
@@ -4152,5 +4153,13 @@
 			padding: 3em 1.5em 1em 1.5em ;
 		}
 
+	}
+	
+	
+	
+	
+	/* Screenshot */
+	.inner {
+		width: 320px;
 	}
 
